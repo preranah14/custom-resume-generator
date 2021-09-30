@@ -1,0 +1,12 @@
+WEB DEVELOPMENT PROJECT - " CUSTOM RESUME GENERATOR "
+
+Team Members :-
+                           Manjula S  - 1EP18CS053
+                           Madhuri V - 1KN18CS049
+                           Prerana Hiremath - 1EP18IS065
+
+1.   To view the project Click on the HTML file named "1_index.html".
+2.   The output can be viewed either in Microsoft edge or any other browser.
+
+
+      
